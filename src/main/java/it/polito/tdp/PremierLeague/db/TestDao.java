@@ -4,9 +4,9 @@ public class TestDao {
 
 	public static void main(String[] args) {
 		TestDao testDao = new TestDao();
-		testDao.run();
+	//	testDao.run();
 	}
-	
+	/*
 	public void run() {
 		PremierLeagueDAO dao = new PremierLeagueDAO();
 		System.out.println("Players:");
@@ -18,5 +18,5 @@ public class TestDao {
 		System.out.println("Matches:");
 		System.out.println(dao.listAllMatches());
 	}
-
+*/
 }
